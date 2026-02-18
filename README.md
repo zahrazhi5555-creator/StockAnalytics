@@ -1,8 +1,28 @@
 # StockAnalytics
-Analyzing stock market data to identify trends and insights using Python and data visualization
-To run this project, you need the following Python libraries:
 
-pip install pandas numpy matplotlib seaborn scikit-learn yfinance and etc.
+# Project Overview
+StockAnalytics is a data-driven project focused on analyzing historical stock market data to identify trends, patterns, and predictive insights using Python and machine learning techniques.
+
+The project leverages financial time-series data and applies statistical analysis, visualization, and predictive modeling to better understand market behavior.
+
+## Key Features
+- Historical stock data retrieval using yfinance
+- Data preprocessing and cleaning with pandas
+- Exploratory Data Analysis (EDA)
+- Trend visualization using matplotlib and seaborn
+- Feature engineering for time-series data
+- Predictive modeling using scikit-learn
+- Performance evaluation of models
+
+## Research Outcome
+This project resulted in a peer-reviewed research paper based on the implemented stock market analysis and prediction methodology.  
+The paper has been accepted for publication in a Q4 indexed academic journal.  
+Citation details will be added after final publication.
+
+
+## Installation
+pip install pandas numpy matplotlib seaborn scikit-learn yfinance
+
 Library Explanation:
 pandas: for data processing and manipulation
 
@@ -13,12 +33,6 @@ matplotlib / seaborn: for data visualization
 scikit-learn: for machine learning tasks
 
 yfinance: for downloading historical stock market data
-
-Notes on Environment:
-If you are running this project in VS Code or Jupyter Notebook locally, make sure to install all the libraries listed above.
-If you are using Google Colab, most of these libraries are already pre-installed, so you may only need to install yfinance if it's missing:
-for example:
-pip install yfinance
 
 How to Run:
 Open the .ipynb notebook in Google Colab or your local Jupyter Notebook.
