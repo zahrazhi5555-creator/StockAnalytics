@@ -23,3 +23,7 @@ pip install yfinance
 How to Run:
 Open the .ipynb notebook in Google Colab or your local Jupyter Notebook.
 Run the cells sequentially to execute the project
+
+#Research Outcome
+This project led to a peer-reviewed research paper based on the implemented stock market analysis and prediction methodology.
+The paper has been accepted for publication in an academic journal.
